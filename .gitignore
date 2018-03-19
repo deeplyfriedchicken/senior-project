@@ -3,4 +3,7 @@ negative/
 neutral/
 models/
 tensorboard/
+figures/
+logs/
+.ipynb_checkpoints/
 idsMatrix.npy
